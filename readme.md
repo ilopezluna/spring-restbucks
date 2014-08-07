@@ -1,3 +1,7 @@
+# Codeship
+
+[![Codeship Status for ilopezluna/spring-restbucks](https://www.codeship.io/projects/42451300-004c-0132-dce9-02f4bfaaad6c/status)](https://www.codeship.io/projects/29923)
+
 # Spring Restbucks
 
 [![Build Status](https://travis-ci.org/olivergierke/spring-restbucks.png?branch=master)](https://travis-ci.org/olivergierke/spring-restbucks)
